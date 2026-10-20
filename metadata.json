@@ -1,0 +1,6 @@
+{
+  "name": "StreamFetch",
+  "description": "High-performance video downloader & browser with smart video detection, multi-resolution selection, download manager, and offline video player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
