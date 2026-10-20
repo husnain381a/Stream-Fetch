@@ -1,10 +1,6 @@
 # StreamFetch — Mobile Video Downloader & Browser
 
 <p align="center">
-  <img src="app/src/main/res/drawable/ic_launcher_foreground.xml" width="96" height="96" alt="StreamFetch Logo" />
-</p>
-
-<p align="center">
   <b>Modern, high-performance Android mobile application to browse, detect, and download videos directly to your smartphone.</b>
 </p>
 
